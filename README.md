@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZoldyIl
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...computer science in collage
-- 💞️ I’m looking to collaborate on ...c++
+- 💞️ I’m looking to collaborate on ...idk
 - 📫 How to reach me ... alkurdeamer1@gmail.com
 
 <!---
